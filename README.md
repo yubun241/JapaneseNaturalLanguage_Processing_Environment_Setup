@@ -10,8 +10,8 @@ mecab-ipadic（標準辞書）または mecab-ipadic-NEologd
 FFmpeg（音声 → テキスト変換などを行う場合に必要）
 
 ## FFmpeg の導入
+こちらからダウンロード
 https://www.ffmpeg.org/
-こちらをダウンロード実績ありのものはこちらにアップロードしておきますのでご確認ください。
 ローカルディスクに保存
 
 WINDOWSの場合
@@ -21,6 +21,5 @@ ffmpegのbinフォルダーのPathを通す
 こちらに以下を追記
 C:\ffmpeg\bin
 
-## ライブラリの導入
 
 
